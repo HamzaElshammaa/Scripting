@@ -10,7 +10,7 @@ from selenium.common.exceptions import NoSuchElementException
 PATH1 = r"C:\Users\mozam\Documents\Coding projects\Scripting\msedgedriver.exe";
 os.environ['PATH']+= r"C:\Users\mozam\Documents\Coding projects\Scripting\msedgedriver.exe";
 driver = webdriver.ChromiumEdge()
-url="https://"+"hamza.elshammaa"+":"+"fox.13.box"+"@"+"apps.guc.edu.eg/student_ext/Evaluation/EvaluateStaff.aspx";
+url="https://"+"hamza.elshammaa"+":"+"**PASSWORD**"+"@"+"apps.guc.edu.eg/student_ext/Evaluation/EvaluateStaff.aspx";
 x=0
 i=0  
 while (x<20):
